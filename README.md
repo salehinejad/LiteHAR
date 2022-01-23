@@ -1,6 +1,8 @@
 # LiteHAR
-LiteHAR: LIGHTWEIGHT HUMAN ACTIVITY RECOGNITION FROM WIFI SIGNALS WITH RANDOM CONVOLUTION KERNELS
+LiteHAR: Lightweight Human Activity Recognition from WiFi Signals with Random Convolution Kernels
 
 By Hojjat Salehinejad and Shahrokh Valaee
 
-This repo contains codes for the above paper. The codes will be released after acceptance of the submited paper to IEEE ICASSP 2022.
+accepted for presentation at IEEE ICASSP 2022.
+
+This repo contains codes for the experiments in the above paper. The codes will be released soon.
