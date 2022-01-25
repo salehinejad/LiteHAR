@@ -3,8 +3,8 @@ LiteHAR: Lightweight Human Activity Recognition from WiFi Signals with Random Co
 
 Implementation of the LiteHAR model by Hojjat Salehinejad and Shahrokh Valaee. 
 
-The corresponding paper has been accepted for presentation at IEEE ICASSP 2022. Paper on ArXiv. 
-
+The corresponding paper has been accepted for presentation at IEEE ICASSP 2022. 
+Paper on ArXiv: https://arxiv.org/abs/2201.09310
 
 ## Data
 Here the link to the dataset used in the paper:
